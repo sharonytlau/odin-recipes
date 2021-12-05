@@ -1,5 +1,5 @@
 # Odin Recipes
-A basic recipe website consists of **a main index page** and **links to three
+A basic [recipe website](https://sharonytlau.github.io/odin-recipes/) consists of **a main index page** and **links to three
 recipes found on [allrecipes](https://www.allrecipes.com/)**.
 
 The website is built with only HTML, implementing concepts covered in the [HTML
